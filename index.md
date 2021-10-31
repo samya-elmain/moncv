@@ -10,10 +10,12 @@
 
 
 	<h2>DETAILS PERSONNELS:</h2>
+<p>	
 	<ul><li>Nom: EL MAIN</li>
 	<li>Prénom: Samya</li>
 	<li>Age: 20ans</li>
 	<li>Adresse: HAY EL MAJD F7 N 76, TANGER </li></ul>
+	</p>	
 	<h2>TITRE DU CV:</h2>
 	<p>Elève ingénieur en première année génie informatique et digitalisation à l'Ecole MOHAMMADIA D'INGENIEURS en recherche d'un stage d'initiation.</p> 
 	<h2>L'OBJECTIF PROFESSIONNEL:</h2>
