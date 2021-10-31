@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8"/>
 </head>
-<body>
+<article>
 	<h1> EL MAIN SAMYA  </h1>
 	<h2>DETAILS PERSONNELS:</h2>
 <p>	
@@ -53,12 +53,11 @@
                 <li>Pratique de la gymnastique.</li>
                 <li>Passionnée par la lecture.</li></ul>
 	   </p>
-    
-
-   </body>
+   
    <footer>
             <p>Edité par : SAMYA EL MAIN<br/>
             Mise à jour : 29/10/2021<br/>
             Copyright ©2021</p>
     </footer>
+    </article>
 </html>
