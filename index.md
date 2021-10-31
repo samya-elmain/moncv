@@ -2,7 +2,6 @@
 <html>
 <head>
 	<meta charset="utf-8"/>
-	<title>mon CV</title>
 </head>
 <body>
 	<h1> EL MAIN SAMYA  </h1>
@@ -56,11 +55,10 @@
 	   </p>
     
 
-    <footer>
+   </body>
+   <footer>
             <p>Edité par : SAMYA EL MAIN<br/>
             Mise à jour : 29/10/2021<br/>
             Copyright ©2021</p>
     </footer>
-
-</body>
 </html>
